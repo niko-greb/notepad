@@ -1,0 +1,3 @@
+#+TITLE: Notepad
+#+DESCRIPTION: A little self made notepad for tranning class inherit
+#+AUTHOR: niko-greb
