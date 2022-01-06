@@ -20,7 +20,7 @@ choice = -1
 until choice >= 0 && choice < choices.size
   choices.each_with_index { |type, index| puts "\t#{index}. #{type}" }
 
-  choise = gets.to_i
+  choice = gets.to_i
 end
 
 entry = Post.create(choice)
